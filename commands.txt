@@ -1,0 +1,3 @@
+gcloud init
+next shell madhey
+py google-cloud-sdk\bin\dev_appserver.py path
